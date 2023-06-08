@@ -1,0 +1,5378 @@
+[
+ {
+   "Name": "Bar+Cost Management+Agilysys",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-agilysys"
+ },
+ {
+   "Name": "Bar+Cost Management+Aldelo Express POS",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-aldelo-express-pos"
+ },
+ {
+   "Name": "Bar+Cost Management+Aloha",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-aloha"
+ },
+ {
+   "Name": "Bar+Cost Management+Auphan",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-auphan"
+ },
+ {
+   "Name": "Bar+Cost Management+Azbar",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-azbar"
+ },
+ {
+   "Name": "Bar+Cost Management+Brink POS",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-brink-pos"
+ },
+ {
+   "Name": "Bar+Cost Management+Cake",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-cake"
+ },
+ {
+   "Name": "Bar+Cost Management+Clover",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-clover"
+ },
+ {
+   "Name": "Bar+Cost Management+Cluster",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-cluster"
+ },
+ {
+   "Name": "Bar+Cost Management+Delarosa",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-delarosa"
+ },
+ {
+   "Name": "Bar+Cost Management+Digital Dining POS",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-digital-dining-pos"
+ },
+ {
+   "Name": "Bar+Cost Management+Dinerware",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-dinerware"
+ },
+ {
+   "Name": "Bar+Cost Management+Doshii",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-doshii"
+ },
+ {
+   "Name": "Bar+Cost Management+Easygoband",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-easygoband"
+ },
+ {
+   "Name": "Bar+Cost Management+Fast Bar POS",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-fast-bar-pos"
+ },
+ {
+   "Name": "Bar+Cost Management+Focus",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-focus"
+ },
+ {
+   "Name": "Bar+Cost Management+Future POS",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-future-pos"
+ },
+ {
+   "Name": "Bar+Cost Management+HarborTouch",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-harbortouch"
+ },
+ {
+   "Name": "Bar+Cost Management+Heartland",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-heartland"
+ },
+ {
+   "Name": "Bar+Cost Management+Kounta by Lightspeed",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Bar+Cost Management+Lavu",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-lavu"
+ },
+ {
+   "Name": "Bar+Cost Management+Lightspeed",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-lightspeed"
+ },
+ {
+   "Name": "Bar+Cost Management+Loyverse",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-loyverse"
+ },
+ {
+   "Name": "Bar+Cost Management+Maitre D",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-maitre-d"
+ },
+ {
+   "Name": "Bar+Cost Management+Micros Simphony",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-micros-simphony"
+ },
+ {
+   "Name": "Bar+Cost Management+Mobi POS",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-mobi-pos"
+ },
+ {
+   "Name": "Bar+Cost Management+Myr (formerly Koomi)",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-myr-formerly-koomi"
+ },
+ {
+   "Name": "Bar+Cost Management+Omnivore",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-omnivore"
+ },
+ {
+   "Name": "Bar+Cost Management+One POS",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-one-pos"
+ },
+ {
+   "Name": "Bar+Cost Management+Onetap",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-onetap"
+ },
+ {
+   "Name": "Bar+Cost Management+PixelPoint",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-pixelpoint"
+ },
+ {
+   "Name": "Bar+Cost Management+POS itouch",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-pos-itouch"
+ },
+ {
+   "Name": "Bar+Cost Management+Restaurant Manager",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-restaurant-manager"
+ },
+ {
+   "Name": "Bar+Cost Management+Revel Systems",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-revel-systems"
+ },
+ {
+   "Name": "Bar+Cost Management+Silverware POS",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-silverware-pos"
+ },
+ {
+   "Name": "Bar+Cost Management+SmartTab POS",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-smarttab-pos"
+ },
+ {
+   "Name": "Bar+Cost Management+Square",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-square"
+ },
+ {
+   "Name": "Bar+Cost Management+Squirrel Systems",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-squirrel-systems"
+ },
+ {
+   "Name": "Bar+Cost Management+Toast",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-toast"
+ },
+ {
+   "Name": "Bar+Cost Management+TouchBistro",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-touchbistro"
+ },
+ {
+   "Name": "Bar+Cost Management+Union",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-union"
+ },
+ {
+   "Name": "Bar+Cost Management+Upserve",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-upserve"
+ },
+ {
+   "Name": "Bar+Cost Management+Veloce",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-veloce"
+ },
+ {
+   "Name": "Bar+Cost Management+Vendus",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-vendus"
+ },
+ {
+   "Name": "Bar+Cost Management+Visual Touch",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-visual-touch"
+ },
+ {
+   "Name": "Bar+Cost Management+Volanté",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-volante"
+ },
+ {
+   "Name": "Bar+Cost Management+Xetux",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-xetux"
+ },
+ {
+   "Name": "Bar+Cost Management+Xpient",
+   "Persona": "Bar",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/bar-cost-management-xpient"
+ },
+ {
+   "Name": "Bar+Inventory+Agilysys",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-agilysys"
+ },
+ {
+   "Name": "Bar+Inventory+Aldelo Express POS",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-aldelo-express-pos"
+ },
+ {
+   "Name": "Bar+Inventory+Aloha",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-aloha"
+ },
+ {
+   "Name": "Bar+Inventory+Auphan",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-auphan"
+ },
+ {
+   "Name": "Bar+Inventory+Azbar",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-azbar"
+ },
+ {
+   "Name": "Bar+Inventory+Brink POS",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-brink-pos"
+ },
+ {
+   "Name": "Bar+Inventory+Cake",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-cake"
+ },
+ {
+   "Name": "Bar+Inventory+Clover",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-clover"
+ },
+ {
+   "Name": "Bar+Inventory+Cluster",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-cluster"
+ },
+ {
+   "Name": "Bar+Inventory+Delarosa",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-delarosa"
+ },
+ {
+   "Name": "Bar+Inventory+Digital Dining POS",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-digital-dining-pos"
+ },
+ {
+   "Name": "Bar+Inventory+Dinerware",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-dinerware"
+ },
+ {
+   "Name": "Bar+Inventory+Doshii",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-doshii"
+ },
+ {
+   "Name": "Bar+Inventory+Easygoband",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-easygoband"
+ },
+ {
+   "Name": "Bar+Inventory+Fast Bar POS",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-fast-bar-pos"
+ },
+ {
+   "Name": "Bar+Inventory+Focus",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-focus"
+ },
+ {
+   "Name": "Bar+Inventory+Future POS",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-future-pos"
+ },
+ {
+   "Name": "Bar+Inventory+HarborTouch",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-harbortouch"
+ },
+ {
+   "Name": "Bar+Inventory+Heartland",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-heartland"
+ },
+ {
+   "Name": "Bar+Inventory+Kounta by Lightspeed",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Bar+Inventory+Lavu",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-lavu"
+ },
+ {
+   "Name": "Bar+Inventory+Lightspeed",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-lightspeed"
+ },
+ {
+   "Name": "Bar+Inventory+Loyverse",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-loyverse"
+ },
+ {
+   "Name": "Bar+Inventory+Maitre D",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-maitre-d"
+ },
+ {
+   "Name": "Bar+Inventory+Micros Simphony",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-micros-simphony"
+ },
+ {
+   "Name": "Bar+Inventory+Mobi POS",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-mobi-pos"
+ },
+ {
+   "Name": "Bar+Inventory+Myr (formerly Koomi)",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-myr-formerly-koomi"
+ },
+ {
+   "Name": "Bar+Inventory+Omnivore",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-omnivore"
+ },
+ {
+   "Name": "Bar+Inventory+One POS",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-one-pos"
+ },
+ {
+   "Name": "Bar+Inventory+Onetap",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-onetap"
+ },
+ {
+   "Name": "Bar+Inventory+PixelPoint",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-pixelpoint"
+ },
+ {
+   "Name": "Bar+Inventory+POS itouch",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-pos-itouch"
+ },
+ {
+   "Name": "Bar+Inventory+Restaurant Manager",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-restaurant-manager"
+ },
+ {
+   "Name": "Bar+Inventory+Revel Systems",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-revel-systems"
+ },
+ {
+   "Name": "Bar+Inventory+Silverware POS",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-silverware-pos"
+ },
+ {
+   "Name": "Bar+Inventory+SmartTab POS",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-smarttab-pos"
+ },
+ {
+   "Name": "Bar+Inventory+Square",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-square"
+ },
+ {
+   "Name": "Bar+Inventory+Squirrel Systems",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-squirrel-systems"
+ },
+ {
+   "Name": "Bar+Inventory+Toast",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-toast"
+ },
+ {
+   "Name": "Bar+Inventory+TouchBistro",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-touchbistro"
+ },
+ {
+   "Name": "Bar+Inventory+Union",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-union"
+ },
+ {
+   "Name": "Bar+Inventory+Upserve",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-upserve"
+ },
+ {
+   "Name": "Bar+Inventory+Veloce",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-veloce"
+ },
+ {
+   "Name": "Bar+Inventory+Vendus",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-vendus"
+ },
+ {
+   "Name": "Bar+Inventory+Visual Touch",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-visual-touch"
+ },
+ {
+   "Name": "Bar+Inventory+Volanté",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-volante"
+ },
+ {
+   "Name": "Bar+Inventory+Xetux",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-xetux"
+ },
+ {
+   "Name": "Bar+Inventory+Xpient",
+   "Persona": "Bar",
+   "Problem": "Inventory",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/bar-inventory-xpient"
+ },
+ {
+   "Name": "Bar+Invoice Management+Agilysys",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-agilysys"
+ },
+ {
+   "Name": "Bar+Invoice Management+Aldelo Express POS",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-aldelo-express-pos"
+ },
+ {
+   "Name": "Bar+Invoice Management+Aloha",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-aloha"
+ },
+ {
+   "Name": "Bar+Invoice Management+Auphan",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-auphan"
+ },
+ {
+   "Name": "Bar+Invoice Management+Azbar",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-azbar"
+ },
+ {
+   "Name": "Bar+Invoice Management+Brink POS",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-brink-pos"
+ },
+ {
+   "Name": "Bar+Invoice Management+Cake",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-cake"
+ },
+ {
+   "Name": "Bar+Invoice Management+Clover",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-clover"
+ },
+ {
+   "Name": "Bar+Invoice Management+Cluster",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-cluster"
+ },
+ {
+   "Name": "Bar+Invoice Management+Delarosa",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-delarosa"
+ },
+ {
+   "Name": "Bar+Invoice Management+Digital Dining POS",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-digital-dining-pos"
+ },
+ {
+   "Name": "Bar+Invoice Management+Dinerware",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-dinerware"
+ },
+ {
+   "Name": "Bar+Invoice Management+Doshii",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-doshii"
+ },
+ {
+   "Name": "Bar+Invoice Management+Easygoband",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-easygoband"
+ },
+ {
+   "Name": "Bar+Invoice Management+Fast Bar POS",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-fast-bar-pos"
+ },
+ {
+   "Name": "Bar+Invoice Management+Focus",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-focus"
+ },
+ {
+   "Name": "Bar+Invoice Management+Future POS",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-future-pos"
+ },
+ {
+   "Name": "Bar+Invoice Management+HarborTouch",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-harbortouch"
+ },
+ {
+   "Name": "Bar+Invoice Management+Heartland",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-heartland"
+ },
+ {
+   "Name": "Bar+Invoice Management+Kounta by Lightspeed",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Bar+Invoice Management+Lavu",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-lavu"
+ },
+ {
+   "Name": "Bar+Invoice Management+Lightspeed",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-lightspeed"
+ },
+ {
+   "Name": "Bar+Invoice Management+Loyverse",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-loyverse"
+ },
+ {
+   "Name": "Bar+Invoice Management+Maitre D",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-maitre-d"
+ },
+ {
+   "Name": "Bar+Invoice Management+Micros Simphony",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-micros-simphony"
+ },
+ {
+   "Name": "Bar+Invoice Management+Mobi POS",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-mobi-pos"
+ },
+ {
+   "Name": "Bar+Invoice Management+Myr (formerly Koomi)",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-myr-formerly-koomi"
+ },
+ {
+   "Name": "Bar+Invoice Management+Omnivore",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-omnivore"
+ },
+ {
+   "Name": "Bar+Invoice Management+One POS",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-one-pos"
+ },
+ {
+   "Name": "Bar+Invoice Management+Onetap",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-onetap"
+ },
+ {
+   "Name": "Bar+Invoice Management+PixelPoint",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-pixelpoint"
+ },
+ {
+   "Name": "Bar+Invoice Management+POS itouch",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-pos-itouch"
+ },
+ {
+   "Name": "Bar+Invoice Management+Restaurant Manager",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-restaurant-manager"
+ },
+ {
+   "Name": "Bar+Invoice Management+Revel Systems",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-revel-systems"
+ },
+ {
+   "Name": "Bar+Invoice Management+Silverware POS",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-silverware-pos"
+ },
+ {
+   "Name": "Bar+Invoice Management+SmartTab POS",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-smarttab-pos"
+ },
+ {
+   "Name": "Bar+Invoice Management+Square",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-square"
+ },
+ {
+   "Name": "Bar+Invoice Management+Squirrel Systems",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-squirrel-systems"
+ },
+ {
+   "Name": "Bar+Invoice Management+Toast",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-toast"
+ },
+ {
+   "Name": "Bar+Invoice Management+TouchBistro",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-touchbistro"
+ },
+ {
+   "Name": "Bar+Invoice Management+Union",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-union"
+ },
+ {
+   "Name": "Bar+Invoice Management+Upserve",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-upserve"
+ },
+ {
+   "Name": "Bar+Invoice Management+Veloce",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-veloce"
+ },
+ {
+   "Name": "Bar+Invoice Management+Vendus",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-vendus"
+ },
+ {
+   "Name": "Bar+Invoice Management+Visual Touch",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-visual-touch"
+ },
+ {
+   "Name": "Bar+Invoice Management+Volanté",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-volante"
+ },
+ {
+   "Name": "Bar+Invoice Management+Xetux",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-xetux"
+ },
+ {
+   "Name": "Bar+Invoice Management+Xpient",
+   "Persona": "Bar",
+   "Problem": "invoice-management",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/bar-invoice-management-xpient"
+ },
+ {
+   "Name": "Bar+Ordering+Agilysys",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-agilysys"
+ },
+ {
+   "Name": "Bar+Ordering+Aldelo Express POS",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-aldelo-express-pos"
+ },
+ {
+   "Name": "Bar+Ordering+Aloha",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-aloha"
+ },
+ {
+   "Name": "Bar+Ordering+Auphan",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-auphan"
+ },
+ {
+   "Name": "Bar+Ordering+Azbar",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-azbar"
+ },
+ {
+   "Name": "Bar+Ordering+Brink POS",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-brink-pos"
+ },
+ {
+   "Name": "Bar+Ordering+Cake",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-cake"
+ },
+ {
+   "Name": "Bar+Ordering+Clover",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-clover"
+ },
+ {
+   "Name": "Bar+Ordering+Cluster",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-cluster"
+ },
+ {
+   "Name": "Bar+Ordering+Delarosa",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-delarosa"
+ },
+ {
+   "Name": "Bar+Ordering+Digital Dining POS",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-digital-dining-pos"
+ },
+ {
+   "Name": "Bar+Ordering+Dinerware",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-dinerware"
+ },
+ {
+   "Name": "Bar+Ordering+Doshii",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-doshii"
+ },
+ {
+   "Name": "Bar+Ordering+Easygoband",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-easygoband"
+ },
+ {
+   "Name": "Bar+Ordering+Fast Bar POS",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-fast-bar-pos"
+ },
+ {
+   "Name": "Bar+Ordering+Focus",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-focus"
+ },
+ {
+   "Name": "Bar+Ordering+Future POS",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-future-pos"
+ },
+ {
+   "Name": "Bar+Ordering+HarborTouch",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-harbortouch"
+ },
+ {
+   "Name": "Bar+Ordering+Heartland",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-heartland"
+ },
+ {
+   "Name": "Bar+Ordering+Kounta by Lightspeed",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Bar+Ordering+Lavu",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-lavu"
+ },
+ {
+   "Name": "Bar+Ordering+Lightspeed",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-lightspeed"
+ },
+ {
+   "Name": "Bar+Ordering+Loyverse",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-loyverse"
+ },
+ {
+   "Name": "Bar+Ordering+Maitre D",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-maitre-d"
+ },
+ {
+   "Name": "Bar+Ordering+Micros Simphony",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-micros-simphony"
+ },
+ {
+   "Name": "Bar+Ordering+Mobi POS",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-mobi-pos"
+ },
+ {
+   "Name": "Bar+Ordering+Myr (formerly Koomi)",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-myr-formerly-koomi"
+ },
+ {
+   "Name": "Bar+Ordering+Omnivore",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-omnivore"
+ },
+ {
+   "Name": "Bar+Ordering+One POS",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-one-pos"
+ },
+ {
+   "Name": "Bar+Ordering+Onetap",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-onetap"
+ },
+ {
+   "Name": "Bar+Ordering+PixelPoint",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-pixelpoint"
+ },
+ {
+   "Name": "Bar+Ordering+POS itouch",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-pos-itouch"
+ },
+ {
+   "Name": "Bar+Ordering+Restaurant Manager",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-restaurant-manager"
+ },
+ {
+   "Name": "Bar+Ordering+Revel Systems",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-revel-systems"
+ },
+ {
+   "Name": "Bar+Ordering+Silverware POS",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-silverware-pos"
+ },
+ {
+   "Name": "Bar+Ordering+SmartTab POS",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-smarttab-pos"
+ },
+ {
+   "Name": "Bar+Ordering+Square",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-square"
+ },
+ {
+   "Name": "Bar+Ordering+Squirrel Systems",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-squirrel-systems"
+ },
+ {
+   "Name": "Bar+Ordering+Toast",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-toast"
+ },
+ {
+   "Name": "Bar+Ordering+TouchBistro",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-touchbistro"
+ },
+ {
+   "Name": "Bar+Ordering+Union",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-union"
+ },
+ {
+   "Name": "Bar+Ordering+Upserve",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-upserve"
+ },
+ {
+   "Name": "Bar+Ordering+Veloce",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-veloce"
+ },
+ {
+   "Name": "Bar+Ordering+Vendus",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-vendus"
+ },
+ {
+   "Name": "Bar+Ordering+Visual Touch",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-visual-touch"
+ },
+ {
+   "Name": "Bar+Ordering+Volanté",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-volante"
+ },
+ {
+   "Name": "Bar+Ordering+Xetux",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-xetux"
+ },
+ {
+   "Name": "Bar+Ordering+Xpient",
+   "Persona": "Bar",
+   "Problem": "Ordering",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/bar-ordering-xpient"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Agilysys",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-agilysys"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Aldelo Express POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-aldelo-express-pos"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Aloha",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-aloha"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Auphan",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-auphan"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Azbar",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-azbar"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Brink POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-brink-pos"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Cake",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-cake"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Clover",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-clover"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Cluster",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-cluster"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Delarosa",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-delarosa"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Digital Dining POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-digital-dining-pos"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Dinerware",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-dinerware"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Doshii",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-doshii"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Easygoband",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-easygoband"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Fast Bar POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-fast-bar-pos"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Focus",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-focus"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Future POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-future-pos"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+HarborTouch",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-harbortouch"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Heartland",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-heartland"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Kounta by Lightspeed",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Lavu",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-lavu"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Lightspeed",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-lightspeed"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Loyverse",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-loyverse"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Maitre D",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-maitre-d"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Micros Simphony",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-micros-simphony"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Mobi POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-mobi-pos"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Myr (formerly Koomi)",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-myr-formerly-koomi"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Omnivore",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-omnivore"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+One POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-one-pos"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Onetap",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-onetap"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+PixelPoint",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-pixelpoint"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+POS itouch",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-pos-itouch"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Restaurant Manager",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-restaurant-manager"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Revel Systems",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-revel-systems"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Silverware POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-silverware-pos"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+SmartTab POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-smarttab-pos"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Square",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-square"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Squirrel Systems",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-squirrel-systems"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Toast",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-toast"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+TouchBistro",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-touchbistro"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Union",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-union"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Upserve",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-upserve"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Veloce",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-veloce"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Vendus",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-vendus"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Visual Touch",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-visual-touch"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Volanté",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-volante"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Xetux",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-xetux"
+ },
+ {
+   "Name": "Coffee Shop+Cost Management+Xpient",
+   "Persona": "Coffee Shop",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-xpient"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Agilysys",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-agilysys"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Aldelo Express POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-aldelo-express-pos"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Aloha",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-aloha"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Auphan",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-auphan"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Azbar",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-azbar"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Brink POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-brink-pos"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Cake",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-cake"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Clover",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-clover"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Cluster",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-cluster"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Delarosa",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-delarosa"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Digital Dining POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-digital-dining-pos"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Dinerware",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-dinerware"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Doshii",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-doshii"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Easygoband",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-easygoband"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Fast Bar POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-fast-bar-pos"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Focus",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-focus"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Future POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-future-pos"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+HarborTouch",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-harbortouch"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Heartland",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-heartland"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Kounta by Lightspeed",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Lavu",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-lavu"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Lightspeed",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-lightspeed"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Loyverse",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-loyverse"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Maitre D",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-maitre-d"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Micros Simphony",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-micros-simphony"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Mobi POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-mobi-pos"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Myr (formerly Koomi)",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-myr-formerly-koomi"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Omnivore",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-omnivore"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+One POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-one-pos"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Onetap",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-onetap"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+PixelPoint",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-pixelpoint"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+POS itouch",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-pos-itouch"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Restaurant Manager",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-restaurant-manager"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Revel Systems",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-revel-systems"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Silverware POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-silverware-pos"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+SmartTab POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-smarttab-pos"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Square",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-square"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Squirrel Systems",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-squirrel-systems"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Toast",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-toast"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+TouchBistro",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-touchbistro"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Union",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-union"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Upserve",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-upserve"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Veloce",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-veloce"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Vendus",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-vendus"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Visual Touch",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-visual-touch"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Volanté",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-volante"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Xetux",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-xetux"
+ },
+ {
+   "Name": "Coffee Shop+Inventory+Xpient",
+   "Persona": "Coffee Shop",
+   "Problem": "Inventory",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-xpient"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Agilysys",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-agilysys"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Aldelo Express POS",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-aldelo-express-pos"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Aloha",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-aloha"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Auphan",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-auphan"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Azbar",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-azbar"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Brink POS",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-brink-pos"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Cake",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-cake"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Clover",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-clover"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Cluster",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-cluster"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Delarosa",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-delarosa"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Digital Dining POS",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-digital-dining-pos"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Dinerware",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-dinerware"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Doshii",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-doshii"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Easygoband",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-easygoband"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Fast Bar POS",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-fast-bar-pos"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Focus",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-focus"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Future POS",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-future-pos"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+HarborTouch",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-harbortouch"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Heartland",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-heartland"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Kounta by Lightspeed",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Lavu",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-lavu"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Lightspeed",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-lightspeed"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Loyverse",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-loyverse"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Maitre D",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-maitre-d"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Micros Simphony",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-micros-simphony"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Mobi POS",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-mobi-pos"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Myr (formerly Koomi)",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-myr-formerly-koomi"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Omnivore",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-omnivore"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+One POS",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-one-pos"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Onetap",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-onetap"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+PixelPoint",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-pixelpoint"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+POS itouch",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-pos-itouch"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Restaurant Manager",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-restaurant-manager"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Revel Systems",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-revel-systems"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Silverware POS",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-silverware-pos"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+SmartTab POS",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-smarttab-pos"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Square",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-square"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Squirrel Systems",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-squirrel-systems"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Toast",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-toast"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+TouchBistro",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-touchbistro"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Union",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-union"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Upserve",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-upserve"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Veloce",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-veloce"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Vendus",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-vendus"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Visual Touch",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-visual-touch"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Volanté",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-volante"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Xetux",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-xetux"
+ },
+ {
+   "Name": "Coffee Shop+Invoice Management+Xpient",
+   "Persona": "Coffee Shop",
+   "Problem": "invoice-management",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-xpient"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Agilysys",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-agilysys"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Aldelo Express POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-aldelo-express-pos"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Aloha",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-aloha"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Auphan",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-auphan"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Azbar",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-azbar"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Brink POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-brink-pos"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Cake",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-cake"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Clover",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-clover"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Cluster",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-cluster"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Delarosa",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-delarosa"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Digital Dining POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-digital-dining-pos"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Dinerware",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-dinerware"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Doshii",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-doshii"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Easygoband",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-easygoband"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Fast Bar POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-fast-bar-pos"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Focus",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-focus"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Future POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-future-pos"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+HarborTouch",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-harbortouch"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Heartland",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-heartland"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Kounta by Lightspeed",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Lavu",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-lavu"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Lightspeed",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-lightspeed"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Loyverse",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-loyverse"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Maitre D",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-maitre-d"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Micros Simphony",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-micros-simphony"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Mobi POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-mobi-pos"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Myr (formerly Koomi)",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-myr-formerly-koomi"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Omnivore",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-omnivore"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+One POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-one-pos"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Onetap",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-onetap"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+PixelPoint",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-pixelpoint"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+POS itouch",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-pos-itouch"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Restaurant Manager",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-restaurant-manager"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Revel Systems",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-revel-systems"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Silverware POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-silverware-pos"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+SmartTab POS",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-smarttab-pos"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Square",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-square"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Squirrel Systems",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-squirrel-systems"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Toast",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-toast"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+TouchBistro",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-touchbistro"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Union",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-union"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Upserve",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-upserve"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Veloce",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-veloce"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Vendus",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-vendus"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Visual Touch",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-visual-touch"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Volanté",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-volante"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Xetux",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-xetux"
+ },
+ {
+   "Name": "Coffee Shop+Ordering+Xpient",
+   "Persona": "Coffee Shop",
+   "Problem": "Ordering",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-xpient"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Agilysys",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-agilysys"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Aldelo Express POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-aldelo-express-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Aloha",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-aloha"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Auphan",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-auphan"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Azbar",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-azbar"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Brink POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-brink-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Cake",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-cake"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Clover",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-clover"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Cluster",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-cluster"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Delarosa",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-delarosa"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Digital Dining POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-digital-dining-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Dinerware",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-dinerware"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Doshii",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-doshii"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Easygoband",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-easygoband"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Fast Bar POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-fast-bar-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Focus",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-focus"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Future POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-future-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+HarborTouch",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-harbortouch"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Heartland",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-heartland"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Kounta by Lightspeed",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Lavu",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-lavu"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Lightspeed",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-lightspeed"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Loyverse",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-loyverse"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Maitre D",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-maitre-d"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Micros Simphony",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-micros-simphony"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Mobi POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-mobi-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Myr (formerly Koomi)",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-myr-formerly-koomi"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Omnivore",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-omnivore"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+One POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-one-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Onetap",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-onetap"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+PixelPoint",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-pixelpoint"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+POS itouch",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-pos-itouch"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Restaurant Manager",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-restaurant-manager"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Revel Systems",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-revel-systems"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Silverware POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-silverware-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+SmartTab POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-smarttab-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Square",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-square"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Squirrel Systems",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-squirrel-systems"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Toast",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-toast"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+TouchBistro",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-touchbistro"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Union",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-union"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Upserve",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-upserve"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Veloce",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-veloce"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Vendus",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-vendus"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Visual Touch",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-visual-touch"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Volanté",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-volante"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Xetux",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-xetux"
+ },
+ {
+   "Name": "Groups & Franchises+Cost Management+Xpient",
+   "Persona": "Groups & Franchises",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-xpient"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Agilysys",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-agilysys"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Aldelo Express POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-aldelo-express-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Aloha",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-aloha"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Auphan",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-auphan"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Azbar",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-azbar"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Brink POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-brink-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Cake",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-cake"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Clover",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-clover"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Cluster",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-cluster"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Delarosa",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-delarosa"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Digital Dining POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-digital-dining-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Dinerware",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-dinerware"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Doshii",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-doshii"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Easygoband",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-easygoband"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Fast Bar POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-fast-bar-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Focus",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-focus"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Future POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-future-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+HarborTouch",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-harbortouch"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Heartland",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-heartland"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Kounta by Lightspeed",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Lavu",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-lavu"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Lightspeed",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-lightspeed"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Loyverse",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-loyverse"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Maitre D",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-maitre-d"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Micros Simphony",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-micros-simphony"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Mobi POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-mobi-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Myr (formerly Koomi)",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-myr-formerly-koomi"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Omnivore",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-omnivore"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+One POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-one-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Onetap",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-onetap"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+PixelPoint",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-pixelpoint"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+POS itouch",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-pos-itouch"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Restaurant Manager",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-restaurant-manager"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Revel Systems",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-revel-systems"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Silverware POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-silverware-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+SmartTab POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-smarttab-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Square",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-square"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Squirrel Systems",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-squirrel-systems"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Toast",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-toast"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+TouchBistro",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-touchbistro"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Union",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-union"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Upserve",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-upserve"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Veloce",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-veloce"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Vendus",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-vendus"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Visual Touch",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-visual-touch"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Volanté",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-volante"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Xetux",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-xetux"
+ },
+ {
+   "Name": "Groups & Franchises+Inventory+Xpient",
+   "Persona": "Groups & Franchises",
+   "Problem": "Inventory",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-xpient"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Agilysys",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-agilysys"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Aldelo Express POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-aldelo-express-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Aloha",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-aloha"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Auphan",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-auphan"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Azbar",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-azbar"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Brink POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-brink-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Cake",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-cake"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Clover",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-clover"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Cluster",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-cluster"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Delarosa",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-delarosa"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Digital Dining POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-digital-dining-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Dinerware",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-dinerware"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Doshii",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-doshii"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Easygoband",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-easygoband"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Fast Bar POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-fast-bar-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Focus",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-focus"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Future POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-future-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+HarborTouch",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-harbortouch"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Heartland",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-heartland"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Kounta by Lightspeed",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Lavu",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-lavu"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Lightspeed",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-lightspeed"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Loyverse",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-loyverse"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Maitre D",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-maitre-d"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Micros Simphony",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-micros-simphony"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Mobi POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-mobi-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Myr (formerly Koomi)",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-myr-formerly-koomi"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Omnivore",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-omnivore"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+One POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-one-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Onetap",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-onetap"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+PixelPoint",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-pixelpoint"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+POS itouch",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-pos-itouch"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Restaurant Manager",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-restaurant-manager"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Revel Systems",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-revel-systems"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Silverware POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-silverware-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+SmartTab POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-smarttab-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Square",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-square"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Squirrel Systems",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-squirrel-systems"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Toast",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-toast"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+TouchBistro",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-touchbistro"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Union",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-union"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Upserve",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-upserve"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Veloce",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-veloce"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Vendus",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-vendus"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Visual Touch",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-visual-touch"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Volanté",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-volante"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Xetux",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-xetux"
+ },
+ {
+   "Name": "Groups & Franchises+Invoice Management+Xpient",
+   "Persona": "Groups & Franchises",
+   "Problem": "invoice-management",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-xpient"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Agilysys",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-agilysys"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Aldelo Express POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-aldelo-express-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Aloha",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-aloha"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Auphan",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-auphan"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Azbar",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-azbar"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Brink POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-brink-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Cake",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-cake"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Clover",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-clover"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Cluster",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-cluster"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Delarosa",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-delarosa"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Digital Dining POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-digital-dining-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Dinerware",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-dinerware"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Doshii",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-doshii"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Easygoband",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-easygoband"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Fast Bar POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-fast-bar-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Focus",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-focus"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Future POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-future-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+HarborTouch",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-harbortouch"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Heartland",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-heartland"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Kounta by Lightspeed",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Lavu",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-lavu"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Lightspeed",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-lightspeed"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Loyverse",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-loyverse"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Maitre D",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-maitre-d"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Micros Simphony",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-micros-simphony"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Mobi POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-mobi-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Myr (formerly Koomi)",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-myr-formerly-koomi"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Omnivore",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-omnivore"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+One POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-one-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Onetap",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-onetap"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+PixelPoint",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-pixelpoint"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+POS itouch",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-pos-itouch"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Restaurant Manager",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-restaurant-manager"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Revel Systems",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-revel-systems"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Silverware POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-silverware-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+SmartTab POS",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-smarttab-pos"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Square",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-square"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Squirrel Systems",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-squirrel-systems"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Toast",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-toast"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+TouchBistro",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-touchbistro"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Union",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-union"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Upserve",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-upserve"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Veloce",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-veloce"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Vendus",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-vendus"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Visual Touch",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-visual-touch"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Volanté",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-volante"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Xetux",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-xetux"
+ },
+ {
+   "Name": "Groups & Franchises+Ordering+Xpient",
+   "Persona": "Groups & Franchises",
+   "Problem": "Ordering",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-xpient"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Agilysys",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-agilysys"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Aldelo Express POS",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-aldelo-express-pos"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Aloha",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-aloha"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Auphan",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-auphan"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Azbar",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-azbar"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Brink POS",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-brink-pos"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Cake",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-cake"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Clover",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-clover"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Cluster",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-cluster"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Delarosa",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-delarosa"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Digital Dining POS",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-digital-dining-pos"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Dinerware",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-dinerware"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Doshii",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-doshii"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Easygoband",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-easygoband"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Fast Bar POS",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-fast-bar-pos"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Focus",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-focus"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Future POS",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-future-pos"
+ },
+ {
+   "Name": "Restaurant+Cost Management+HarborTouch",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-harbortouch"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Heartland",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-heartland"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Kounta by Lightspeed",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Lavu",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-lavu"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Lightspeed",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-lightspeed"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Loyverse",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-loyverse"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Maitre D",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-maitre-d"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Micros Simphony",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-micros-simphony"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Mobi POS",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-mobi-pos"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Myr (formerly Koomi)",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-myr-formerly-koomi"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Omnivore",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-omnivore"
+ },
+ {
+   "Name": "Restaurant+Cost Management+One POS",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-one-pos"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Onetap",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-onetap"
+ },
+ {
+   "Name": "Restaurant+Cost Management+PixelPoint",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-pixelpoint"
+ },
+ {
+   "Name": "Restaurant+Cost Management+POS itouch",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-pos-itouch"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Restaurant Manager",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-restaurant-manager"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Revel Systems",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-revel-systems"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Silverware POS",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-silverware-pos"
+ },
+ {
+   "Name": "Restaurant+Cost Management+SmartTab POS",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-smarttab-pos"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Square",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-square"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Squirrel Systems",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-squirrel-systems"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Toast",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-toast"
+ },
+ {
+   "Name": "Restaurant+Cost Management+TouchBistro",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-touchbistro"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Union",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-union"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Upserve",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-upserve"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Veloce",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-veloce"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Vendus",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-vendus"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Visual Touch",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-visual-touch"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Volanté",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-volante"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Xetux",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-xetux"
+ },
+ {
+   "Name": "Restaurant+Cost Management+Xpient",
+   "Persona": "Restaurant",
+   "Problem": "Recipe & Cost Management",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-xpient"
+ },
+ {
+   "Name": "Restaurant+Inventory+Agilysys",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-agilysys"
+ },
+ {
+   "Name": "Restaurant+Inventory+Aldelo Express POS",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-aldelo-express-pos"
+ },
+ {
+   "Name": "Restaurant+Inventory+Aloha",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-aloha"
+ },
+ {
+   "Name": "Restaurant+Inventory+Auphan",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-auphan"
+ },
+ {
+   "Name": "Restaurant+Inventory+Azbar",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-azbar"
+ },
+ {
+   "Name": "Restaurant+Inventory+Brink POS",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-brink-pos"
+ },
+ {
+   "Name": "Restaurant+Inventory+Cake",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-cake"
+ },
+ {
+   "Name": "Restaurant+Inventory+Clover",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-clover"
+ },
+ {
+   "Name": "Restaurant+Inventory+Cluster",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-cluster"
+ },
+ {
+   "Name": "Restaurant+Inventory+Delarosa",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-delarosa"
+ },
+ {
+   "Name": "Restaurant+Inventory+Digital Dining POS",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-digital-dining-pos"
+ },
+ {
+   "Name": "Restaurant+Inventory+Dinerware",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-dinerware"
+ },
+ {
+   "Name": "Restaurant+Inventory+Doshii",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-doshii"
+ },
+ {
+   "Name": "Restaurant+Inventory+Easygoband",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-easygoband"
+ },
+ {
+   "Name": "Restaurant+Inventory+Fast Bar POS",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-fast-bar-pos"
+ },
+ {
+   "Name": "Restaurant+Inventory+Focus",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-focus"
+ },
+ {
+   "Name": "Restaurant+Inventory+Future POS",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-future-pos"
+ },
+ {
+   "Name": "Restaurant+Inventory+HarborTouch",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-harbortouch"
+ },
+ {
+   "Name": "Restaurant+Inventory+Heartland",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-heartland"
+ },
+ {
+   "Name": "Restaurant+Inventory+Kounta by Lightspeed",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Restaurant+Inventory+Lavu",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-lavu"
+ },
+ {
+   "Name": "Restaurant+Inventory+Lightspeed",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-lightspeed"
+ },
+ {
+   "Name": "Restaurant+Inventory+Loyverse",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-loyverse"
+ },
+ {
+   "Name": "Restaurant+Inventory+Maitre D",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-maitre-d"
+ },
+ {
+   "Name": "Restaurant+Inventory+Micros Simphony",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-micros-simphony"
+ },
+ {
+   "Name": "Restaurant+Inventory+Mobi POS",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-mobi-pos"
+ },
+ {
+   "Name": "Restaurant+Inventory+Myr (formerly Koomi)",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-myr-formerly-koomi"
+ },
+ {
+   "Name": "Restaurant+Inventory+Omnivore",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-omnivore"
+ },
+ {
+   "Name": "Restaurant+Inventory+One POS",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-one-pos"
+ },
+ {
+   "Name": "Restaurant+Inventory+Onetap",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-onetap"
+ },
+ {
+   "Name": "Restaurant+Inventory+PixelPoint",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-pixelpoint"
+ },
+ {
+   "Name": "Restaurant+Inventory+POS itouch",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-pos-itouch"
+ },
+ {
+   "Name": "Restaurant+Inventory+Restaurant Manager",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-restaurant-manager"
+ },
+ {
+   "Name": "Restaurant+Inventory+Revel Systems",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-revel-systems"
+ },
+ {
+   "Name": "Restaurant+Inventory+Silverware POS",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-silverware-pos"
+ },
+ {
+   "Name": "Restaurant+Inventory+SmartTab POS",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-smarttab-pos"
+ },
+ {
+   "Name": "Restaurant+Inventory+Square",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-square"
+ },
+ {
+   "Name": "Restaurant+Inventory+Squirrel Systems",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-squirrel-systems"
+ },
+ {
+   "Name": "Restaurant+Inventory+Toast",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-toast"
+ },
+ {
+   "Name": "Restaurant+Inventory+TouchBistro",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-touchbistro"
+ },
+ {
+   "Name": "Restaurant+Inventory+Union",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-union"
+ },
+ {
+   "Name": "Restaurant+Inventory+Upserve",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-upserve"
+ },
+ {
+   "Name": "Restaurant+Inventory+Veloce",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-veloce"
+ },
+ {
+   "Name": "Restaurant+Inventory+Vendus",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-vendus"
+ },
+ {
+   "Name": "Restaurant+Inventory+Visual Touch",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-visual-touch"
+ },
+ {
+   "Name": "Restaurant+Inventory+Volanté",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-volante"
+ },
+ {
+   "Name": "Restaurant+Inventory+Xetux",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-xetux"
+ },
+ {
+   "Name": "Restaurant+Inventory+Xpient",
+   "Persona": "Restaurant",
+   "Problem": "Inventory",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/restaurant-inventory-xpient"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Agilysys",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-agilysys"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Aldelo Express POS",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-aldelo-express-pos"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Aloha",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-aloha"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Auphan",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-auphan"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Azbar",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-azbar"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Brink POS",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-brink-pos"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Cake",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-cake"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Clover",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-clover"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Cluster",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-cluster"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Delarosa",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-delarosa"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Digital Dining POS",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-digital-dining-pos"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Dinerware",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-dinerware"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Doshii",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-doshii"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Easygoband",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-easygoband"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Fast Bar POS",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-fast-bar-pos"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Focus",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-focus"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Future POS",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-future-pos"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+HarborTouch",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-harbortouch"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Heartland",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-heartland"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Kounta by Lightspeed",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Lavu",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-lavu"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Lightspeed",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-lightspeed"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Loyverse",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-loyverse"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Maitre D",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-maitre-d"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Micros Simphony",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-micros-simphony"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Mobi POS",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-mobi-pos"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Myr (formerly Koomi)",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-myr-formerly-koomi"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Omnivore",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-omnivore"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+One POS",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-one-pos"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Onetap",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-onetap"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+PixelPoint",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-pixelpoint"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+POS itouch",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-pos-itouch"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Restaurant Manager",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-restaurant-manager"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Revel Systems",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-revel-systems"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Silverware POS",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-silverware-pos"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+SmartTab POS",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-smarttab-pos"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Square",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-square"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Squirrel Systems",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-squirrel-systems"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Toast",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-toast"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+TouchBistro",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-touchbistro"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Union",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-union"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Upserve",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-upserve"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Veloce",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-veloce"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Vendus",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-vendus"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Visual Touch",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-visual-touch"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Volanté",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-volante"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Xetux",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-xetux"
+ },
+ {
+   "Name": "Restaurant+Invoice Management+Xpient",
+   "Persona": "Restaurant",
+   "Problem": "invoice-management",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-xpient"
+ },
+ {
+   "Name": "Restaurant+Ordering+Agilysys",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Agilysys",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-agilysys"
+ },
+ {
+   "Name": "Restaurant+Ordering+Aldelo Express POS",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Aldelo Express POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-aldelo-express-pos"
+ },
+ {
+   "Name": "Restaurant+Ordering+Aloha",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Aloha",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-aloha"
+ },
+ {
+   "Name": "Restaurant+Ordering+Auphan",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Auphan",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-auphan"
+ },
+ {
+   "Name": "Restaurant+Ordering+Azbar",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Azbar",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-azbar"
+ },
+ {
+   "Name": "Restaurant+Ordering+Brink POS",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Brink POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-brink-pos"
+ },
+ {
+   "Name": "Restaurant+Ordering+Cake",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Cake",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-cake"
+ },
+ {
+   "Name": "Restaurant+Ordering+Clover",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Clover",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-clover"
+ },
+ {
+   "Name": "Restaurant+Ordering+Cluster",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Cluster",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-cluster"
+ },
+ {
+   "Name": "Restaurant+Ordering+Delarosa",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Delarosa",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-delarosa"
+ },
+ {
+   "Name": "Restaurant+Ordering+Digital Dining POS",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Digital Dining POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-digital-dining-pos"
+ },
+ {
+   "Name": "Restaurant+Ordering+Dinerware",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Dinerware",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-dinerware"
+ },
+ {
+   "Name": "Restaurant+Ordering+Doshii",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Doshii",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-doshii"
+ },
+ {
+   "Name": "Restaurant+Ordering+Easygoband",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Easygoband",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-easygoband"
+ },
+ {
+   "Name": "Restaurant+Ordering+Fast Bar POS",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Fast Bar POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-fast-bar-pos"
+ },
+ {
+   "Name": "Restaurant+Ordering+Focus",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Focus",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-focus"
+ },
+ {
+   "Name": "Restaurant+Ordering+Future POS",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Future POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-future-pos"
+ },
+ {
+   "Name": "Restaurant+Ordering+HarborTouch",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "HarborTouch",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-harbortouch"
+ },
+ {
+   "Name": "Restaurant+Ordering+Heartland",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Heartland",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-heartland"
+ },
+ {
+   "Name": "Restaurant+Ordering+Kounta by Lightspeed",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Kounta by Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-kounta-by-lightspeed"
+ },
+ {
+   "Name": "Restaurant+Ordering+Lavu",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Lavu",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-lavu"
+ },
+ {
+   "Name": "Restaurant+Ordering+Lightspeed",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Lightspeed",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-lightspeed"
+ },
+ {
+   "Name": "Restaurant+Ordering+Loyverse",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Loyverse",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-loyverse"
+ },
+ {
+   "Name": "Restaurant+Ordering+Maitre D",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Maitre D'",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-maitre-d"
+ },
+ {
+   "Name": "Restaurant+Ordering+Micros Simphony",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Micros Simphony",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-micros-simphony"
+ },
+ {
+   "Name": "Restaurant+Ordering+Mobi POS",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Mobi POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-mobi-pos"
+ },
+ {
+   "Name": "Restaurant+Ordering+Myr (formerly Koomi)",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Myr (formerly Koomi)",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-myr-formerly-koomi"
+ },
+ {
+   "Name": "Restaurant+Ordering+Omnivore",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-omnivore"
+ },
+ {
+   "Name": "Restaurant+Ordering+One POS",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "One POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-one-pos"
+ },
+ {
+   "Name": "Restaurant+Ordering+Onetap",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Onetap",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-onetap"
+ },
+ {
+   "Name": "Restaurant+Ordering+PixelPoint",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "PixelPoint",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-pixelpoint"
+ },
+ {
+   "Name": "Restaurant+Ordering+POS itouch",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "POSitouch",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-pos-itouch"
+ },
+ {
+   "Name": "Restaurant+Ordering+Restaurant Manager",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Restaurant Manager",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-restaurant-manager"
+ },
+ {
+   "Name": "Restaurant+Ordering+Revel Systems",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Revel",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-revel-systems"
+ },
+ {
+   "Name": "Restaurant+Ordering+Silverware POS",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Silverware POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-silverware-pos"
+ },
+ {
+   "Name": "Restaurant+Ordering+SmartTab POS",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "SmartTab POS",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-smarttab-pos"
+ },
+ {
+   "Name": "Restaurant+Ordering+Square",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Square",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-square"
+ },
+ {
+   "Name": "Restaurant+Ordering+Squirrel Systems",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Squirrel Systems",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-squirrel-systems"
+ },
+ {
+   "Name": "Restaurant+Ordering+Toast",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Toast",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-toast"
+ },
+ {
+   "Name": "Restaurant+Ordering+TouchBistro",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "TouchBistro",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-touchbistro"
+ },
+ {
+   "Name": "Restaurant+Ordering+Union",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Union",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-union"
+ },
+ {
+   "Name": "Restaurant+Ordering+Upserve",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Upserve",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-upserve"
+ },
+ {
+   "Name": "Restaurant+Ordering+Veloce",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Veloce",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-veloce"
+ },
+ {
+   "Name": "Restaurant+Ordering+Vendus",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Vendus",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-vendus"
+ },
+ {
+   "Name": "Restaurant+Ordering+Visual Touch",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Visual Touch",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-visual-touch"
+ },
+ {
+   "Name": "Restaurant+Ordering+Volanté",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Volanté",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-volante"
+ },
+ {
+   "Name": "Restaurant+Ordering+Xetux",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Xetux",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-xetux"
+ },
+ {
+   "Name": "Restaurant+Ordering+Xpient",
+   "Persona": "Restaurant",
+   "Problem": "Ordering",
+   "POS": "Xpient",
+   "URL": "https://www.wisk.ai/qlp/restaurant-ordering-xpient"
+ }
+]
