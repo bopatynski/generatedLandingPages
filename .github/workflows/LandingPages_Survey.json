@@ -164,7 +164,7 @@
    "Name": "Bar+Cost Management+Maitre D",
    "Persona": "Bar",
    "Problem": "Recipe & Cost Management",
-   "POS": "",
+   "POS": "Maitre D",
    "URL": "https://www.wisk.ai/qlp/bar-cost-management-maitre-d"
  },
  {
@@ -192,7 +192,7 @@
    "Name": "Bar+Cost Management+Omnivore",
    "Persona": "Bar",
    "Problem": "Recipe & Cost Management",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/bar-cost-management-omnivore"
  },
  {
@@ -528,7 +528,7 @@
    "Name": "Bar+Inventory+Omnivore",
    "Persona": "Bar",
    "Problem": "Inventory",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/bar-inventory-omnivore"
  },
  {
@@ -864,7 +864,7 @@
    "Name": "Bar+Invoice Management+Omnivore",
    "Persona": "Bar",
    "Problem": "invoice-management",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/bar-invoice-management-omnivore"
  },
  {
@@ -1200,7 +1200,7 @@
    "Name": "Bar+Ordering+Omnivore",
    "Persona": "Bar",
    "Problem": "Ordering",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/bar-ordering-omnivore"
  },
  {
@@ -1536,7 +1536,7 @@
    "Name": "Coffee Shop+Cost Management+Omnivore",
    "Persona": "Coffee Shop",
    "Problem": "Recipe & Cost Management",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-omnivore"
  },
  {
@@ -1872,7 +1872,7 @@
    "Name": "Coffee Shop+Inventory+Omnivore",
    "Persona": "Coffee Shop",
    "Problem": "Inventory",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-omnivore"
  },
  {
@@ -2208,7 +2208,7 @@
    "Name": "Coffee Shop+Invoice Management+Omnivore",
    "Persona": "Coffee Shop",
    "Problem": "invoice-management",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-omnivore"
  },
  {
@@ -2544,7 +2544,7 @@
    "Name": "Coffee Shop+Ordering+Omnivore",
    "Persona": "Coffee Shop",
    "Problem": "Ordering",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-omnivore"
  },
  {
@@ -2880,7 +2880,7 @@
    "Name": "Groups & Franchises+Cost Management+Omnivore",
    "Persona": "Groups & Franchises",
    "Problem": "Recipe & Cost Management",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-omnivore"
  },
  {
@@ -3216,7 +3216,7 @@
    "Name": "Groups & Franchises+Inventory+Omnivore",
    "Persona": "Groups & Franchises",
    "Problem": "Inventory",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-omnivore"
  },
  {
@@ -3552,7 +3552,7 @@
    "Name": "Groups & Franchises+Invoice Management+Omnivore",
    "Persona": "Groups & Franchises",
    "Problem": "invoice-management",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-omnivore"
  },
  {
@@ -3888,7 +3888,7 @@
    "Name": "Groups & Franchises+Ordering+Omnivore",
    "Persona": "Groups & Franchises",
    "Problem": "Ordering",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-omnivore"
  },
  {
@@ -4224,7 +4224,7 @@
    "Name": "Restaurant+Cost Management+Omnivore",
    "Persona": "Restaurant",
    "Problem": "Recipe & Cost Management",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-omnivore"
  },
  {
@@ -4560,7 +4560,7 @@
    "Name": "Restaurant+Inventory+Omnivore",
    "Persona": "Restaurant",
    "Problem": "Inventory",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/restaurant-inventory-omnivore"
  },
  {
@@ -4896,7 +4896,7 @@
    "Name": "Restaurant+Invoice Management+Omnivore",
    "Persona": "Restaurant",
    "Problem": "invoice-management",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-omnivore"
  },
  {
@@ -5232,7 +5232,7 @@
    "Name": "Restaurant+Ordering+Omnivore",
    "Persona": "Restaurant",
    "Problem": "Ordering",
-   "POS": "",
+   "POS": "POS Not Listed",
    "URL": "https://www.wisk.ai/qlp/restaurant-ordering-omnivore"
  },
  {
