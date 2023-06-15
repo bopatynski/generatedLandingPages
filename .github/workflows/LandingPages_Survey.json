@@ -182,10 +182,10 @@
     "URL": "https://www.wisk.ai/qlp/bar-cost-management-mobi-pos"
   },
   {
-    "Name": "Bar+Cost Management+Myr (formerly Koomi)",
+    "Name": "Bar+Cost Management+Myr",
     "Persona": "Bar",
     "Problem": "Recipe & Cost Management",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/bar-cost-management-myr-formerly-koomi"
   },
   {
@@ -518,10 +518,10 @@
     "URL": "https://www.wisk.ai/qlp/bar-inventory-mobi-pos"
   },
   {
-    "Name": "Bar+Inventory+Myr (formerly Koomi)",
+    "Name": "Bar+Inventory+Myr",
     "Persona": "Bar",
     "Problem": "Inventory",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/bar-inventory-myr-formerly-koomi"
   },
   {
@@ -854,10 +854,10 @@
     "URL": "https://www.wisk.ai/qlp/bar-invoice-management-mobi-pos"
   },
   {
-    "Name": "Bar+Invoice Management+Myr (formerly Koomi)",
+    "Name": "Bar+Invoice Management+Myr",
     "Persona": "Bar",
     "Problem": "Invoice Automation",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/bar-invoice-management-myr-formerly-koomi"
   },
   {
@@ -1190,10 +1190,10 @@
     "URL": "https://www.wisk.ai/qlp/bar-ordering-mobi-pos"
   },
   {
-    "Name": "Bar+Ordering+Myr (formerly Koomi)",
+    "Name": "Bar+Ordering+Myr",
     "Persona": "Bar",
     "Problem": "Ordering",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/bar-ordering-myr-formerly-koomi"
   },
   {
@@ -1526,10 +1526,10 @@
     "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-mobi-pos"
   },
   {
-    "Name": "Coffee Shop+Cost Management+Myr (formerly Koomi)",
+    "Name": "Coffee Shop+Cost Management+Myr",
     "Persona": "Coffee Shop",
     "Problem": "Recipe & Cost Management",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/coffee-shop-cost-management-myr-formerly-koomi"
   },
   {
@@ -1862,10 +1862,10 @@
     "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-mobi-pos"
   },
   {
-    "Name": "Coffee Shop+Inventory+Myr (formerly Koomi)",
+    "Name": "Coffee Shop+Inventory+Myr",
     "Persona": "Coffee Shop",
     "Problem": "Inventory",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/coffee-shop-inventory-myr-formerly-koomi"
   },
   {
@@ -2198,10 +2198,10 @@
     "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-mobi-pos"
   },
   {
-    "Name": "Coffee Shop+Invoice Management+Myr (formerly Koomi)",
+    "Name": "Coffee Shop+Invoice Management+Myr",
     "Persona": "Coffee Shop",
     "Problem": "Invoice Automation",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/coffee-shop-invoice-management-myr-formerly-koomi"
   },
   {
@@ -2534,10 +2534,10 @@
     "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-mobi-pos"
   },
   {
-    "Name": "Coffee Shop+Ordering+Myr (formerly Koomi)",
+    "Name": "Coffee Shop+Ordering+Myr",
     "Persona": "Coffee Shop",
     "Problem": "Ordering",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/coffee-shop-ordering-myr-formerly-koomi"
   },
   {
@@ -2870,10 +2870,10 @@
     "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-mobi-pos"
   },
   {
-    "Name": "Groups & Franchises+Cost Management+Myr (formerly Koomi)",
+    "Name": "Groups & Franchises+Cost Management+Myr",
     "Persona": "Groups & Franchises",
     "Problem": "Recipe & Cost Management",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/groups-franchises-cost-management-myr-formerly-koomi"
   },
   {
@@ -3206,10 +3206,10 @@
     "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-mobi-pos"
   },
   {
-    "Name": "Groups & Franchises+Inventory+Myr (formerly Koomi)",
+    "Name": "Groups & Franchises+Inventory+Myr",
     "Persona": "Groups & Franchises",
     "Problem": "Inventory",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/groups-franchises-inventory-myr-formerly-koomi"
   },
   {
@@ -3542,10 +3542,10 @@
     "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-mobi-pos"
   },
   {
-    "Name": "Groups & Franchises+Invoice Management+Myr (formerly Koomi)",
+    "Name": "Groups & Franchises+Invoice Management+Myr",
     "Persona": "Groups & Franchises",
     "Problem": "Invoice Automation",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/groups-franchises-invoice-management-myr-formerly-koomi"
   },
   {
@@ -3878,10 +3878,10 @@
     "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-mobi-pos"
   },
   {
-    "Name": "Groups & Franchises+Ordering+Myr (formerly Koomi)",
+    "Name": "Groups & Franchises+Ordering+Myr",
     "Persona": "Groups & Franchises",
     "Problem": "Ordering",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/groups-franchises-ordering-myr-formerly-koomi"
   },
   {
@@ -4214,10 +4214,10 @@
     "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-mobi-pos"
   },
   {
-    "Name": "Restaurant+Cost Management+Myr (formerly Koomi)",
+    "Name": "Restaurant+Cost Management+Myr",
     "Persona": "Restaurant",
     "Problem": "Recipe & Cost Management",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/restaurant-cost-management-myr-formerly-koomi"
   },
   {
@@ -4550,10 +4550,10 @@
     "URL": "https://www.wisk.ai/qlp/restaurant-inventory-mobi-pos"
   },
   {
-    "Name": "Restaurant+Inventory+Myr (formerly Koomi)",
+    "Name": "Restaurant+Inventory+Myr",
     "Persona": "Restaurant",
     "Problem": "Inventory",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/restaurant-inventory-myr-formerly-koomi"
   },
   {
@@ -4886,10 +4886,10 @@
     "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-mobi-pos"
   },
   {
-    "Name": "Restaurant+Invoice Management+Myr (formerly Koomi)",
+    "Name": "Restaurant+Invoice Management+Myr",
     "Persona": "Restaurant",
     "Problem": "Invoice Automation",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/restaurant-invoice-management-myr-formerly-koomi"
   },
   {
@@ -5222,10 +5222,10 @@
     "URL": "https://www.wisk.ai/qlp/restaurant-ordering-mobi-pos"
   },
   {
-    "Name": "Restaurant+Ordering+Myr (formerly Koomi)",
+    "Name": "Restaurant+Ordering+Myr",
     "Persona": "Restaurant",
     "Problem": "Ordering",
-    "POS": "Myr (formerly Koomi)",
+    "POS": "Myr",
     "URL": "https://www.wisk.ai/qlp/restaurant-ordering-myr-formerly-koomi"
   },
   {
